@@ -1459,7 +1459,7 @@ section {
 #footer {
   color: #fff;
   font-size: 14px;
-  background: linear-gradient(45deg, rgba(86, 58, 250, 0.9) 0%, rgba(116, 15, 214, 0.9) 100%), url("../img/hero-bg.jpg") center center no-repeat;
+  background: linear-gradient(45deg, rgba(11, 8, 26, 0.877) 0%, rgba(13, 12, 14, 0.795) 100%), url("../img/gecbh-aerial.jpg") center center no-repeat;
   background-size: cover;
 }
 
@@ -1478,7 +1478,6 @@ section {
   padding: 2px 0 2px 0;
   line-height: 1;
   font-weight: 500;
-  text-transform: uppercase;
 }
 
 #footer .footer-top .footer-contact p {
