@@ -1614,3 +1614,23 @@ section {
   color: #fff;
   text-decoration: none;
 }
+
+.right-col-play
+{
+  float: right;
+  margin-left: 1100px;
+  display: flex;
+  align-items: center;
+}
+.right-col-play p
+{
+  font-size:30px;
+  color: white;
+  font-weight: 400;
+  margin-right: 15px;
+}
+#player
+{
+  width: 95px;
+  cursor: pointer;
+}
