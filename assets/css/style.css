@@ -1634,3 +1634,39 @@ section {
   width: 95px;
   cursor: pointer;
 }
+.venda
+{
+  display: none;
+}
+
+@media(max-width: 700px)
+{
+  .right-col-play
+{
+  float: right;
+  margin-left: 100px;
+  display: flex;
+  align-items: center;
+}
+.right-col-play p
+{
+  font-size:20px;
+  color: white;
+  font-weight: 400;
+  margin-right: 15px;
+}
+#player
+{
+  width: 75px;
+  cursor: pointer;
+}
+#hero
+{
+  width:100%;
+  height:100%;
+}
+.venda
+{
+  display: flex;
+}
+}
