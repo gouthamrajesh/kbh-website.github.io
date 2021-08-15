@@ -1,1 +1,3 @@
-This is the official website kyaabaathai - Official college radio of Government Engineering College, Barton Hill
+<h1>Kyaa Baat Haai - Official Website</h1>
+Official Website of Kyaa Baat Haai - GEC Barton Hill<br>
+<a href="https://kyaabaathaai.live/">Click Here to Browse KBH</a>
