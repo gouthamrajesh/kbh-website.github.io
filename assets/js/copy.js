@@ -1,9 +1,4 @@
-/**
-* Template Name: Multi - v4.3.0
-* Template URL: https://bootstrapmade.com/multi-responsive-bootstrap-template/
-* Author: BootstrapMade.com
-* License: https://bootstrapmade.com/license/
-*/
+
 (function() {
   "use strict";
 
